@@ -91,9 +91,4 @@ This repository includes:
 - Custom project structure and deployment setup
 
 
-----------------------------------------------------------------
 
-DISCLAIMER
-
-This project is intended strictly for educational and research purposes.
-DeepFake detection remains an open research challenge and real-world performance may vary.
