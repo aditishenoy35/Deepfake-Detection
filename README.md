@@ -82,35 +82,7 @@ npm start
 
 MODEL PERFORMANCE
 
-- Accuracy: (add your achieved accuracy): 98.7%
-- Confusion Matrix
-  <img width="531" height="356" alt="image" src="https://github.com/user-attachments/assets/da1e3f47-8550-4ef5-a477-04cb90f55679" />
-
-
-----------------------------------------------------------------
-
-DATASET DETAILS
-
-The model is trained using the Celeb-DF dataset which contains real and DeepFake videos
-generated using multiple DeepFake techniques.
-
-Dataset link:
-https://github.com/yuezunli/celeb-deepfakeforensics
-
-----------------------------------------------------------------
-
-ACKNOWLEDGEMENTS AND CREDITS
-
-This project is inspired by and built with reference to existing open-source work.
-We sincerely thank the original authors for making their implementations publicly available.
-
-References:
-
-Deepfake Detection using Deep Learning:
-https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning
-
-Original Project Inspiration:
-https://github.com/iamdhrutipatel/DeepFake-Detection
+- Accuracy: 98.7%
 
 This repository includes:
 - A completely redesigned frontend
